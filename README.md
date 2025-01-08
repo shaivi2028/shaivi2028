@@ -6,9 +6,9 @@
 📚 &nbsp;I am a final-year Computer Science Major.\
 🌱 &nbsp;On a journey to deepen my knowledge of machine learning, with a keen interest in blockchain, AR/VR, and creating interactive web experiences.\
 💡 &nbsp;Bridging tech and empathy through inclusive design and thoughtful experiences.\
-🎨 &nbsp;When I’m not coding, you’ll find me designing immersive AR worlds or crafting interactive web layouts for fun!\
-<!-- 👨‍💻 &nbsp;Check out my [Portfolio](https://shaivisinha.notion.site/Shaivi-Sinha-453053a341e84d509784b6e7e10a6f37?pvs=4)\ -->
+🎨 &nbsp;When I’m not coding, you’ll find me designing immersive AR worlds or crafting interactive web layouts for fun! \
 📧 &nbsp;You can reach me out at **shaivi.2803@gmail.com**
+<!-- 👨‍💻 &nbsp;Check out my [Portfolio](https://shaivisinha.notion.site/Shaivi-Sinha-453053a341e84d509784b6e7e10a6f37?pvs=4)\ -->
 
 ### 🕹️ &nbsp;Tech Stack
 
