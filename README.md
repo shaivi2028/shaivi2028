@@ -7,7 +7,7 @@
 🌱 &nbsp;On a journey to deepen my knowledge of machine learning, with a keen interest in blockchain, AR/VR, and creating interactive web experiences.\
 💡 &nbsp;Bridging tech and empathy through inclusive design and thoughtful experiences.\
 🎨 &nbsp;When I’m not coding, you’ll find me designing immersive AR worlds or crafting interactive web layouts for fun!\
-👨‍💻 &nbsp;Check out my [Portfolio](https://shaivisinha.notion.site/Shaivi-Sinha-453053a341e84d509784b6e7e10a6f37?pvs=4)\
+<!-- 👨‍💻 &nbsp;Check out my [Portfolio](https://shaivisinha.notion.site/Shaivi-Sinha-453053a341e84d509784b6e7e10a6f37?pvs=4)\ -->
 📧 &nbsp;You can reach me out at **shaivi.2803@gmail.com**
 
 ### 🕹️ &nbsp;Tech Stack
@@ -18,8 +18,8 @@
 
 <p align="center">
   <a href="https://github.com/shaivi2028">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shaivi2028&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shaivi2028&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shaivi2028&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shaivi2028&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
