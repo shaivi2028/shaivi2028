@@ -26,6 +26,11 @@
 ### 🌐 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/shaivisinha2028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shaivisinha2028" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@shaivisinha670" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="[https://www.youtube.com/@shaivisinha670](https://www.youtube.com/@shaivisinha670)" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/shaivisinha2028" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@shaivisinha670" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube Channel" height="30" width="40" />
+  </a>
 </p>
+
