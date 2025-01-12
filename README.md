@@ -12,7 +12,7 @@
 
 ### 🕹️ &nbsp;Tech Stack
 
-![My skills and tools](https://skillicons.dev/icons?i=cpp,python,js,html,css,mongodb,java,react,django,mysql,figma,unity,blender,photoshop,rust&theme=light&perline=13)
+![My skills and tools](https://skillicons.dev/icons?i=cpp,python,js,html,css,mongodb,java,react,django,mysql,figma,unity,blender,photoshop,kotlin,rust&theme=light&perline=13)
 
 ### 🎢 &nbsp;GitHub Analytics
 
